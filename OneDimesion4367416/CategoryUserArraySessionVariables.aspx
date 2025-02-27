@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Crear matriz de categorias<br />
+            Create Category Array<br />
             <asp:Button ID="Button1" runat="server" Text="Create Array" OnClick="Button1_Click" />
         </div>
     </form>
